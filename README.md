@@ -1,4 +1,4 @@
-## Olá, sou a Priscila 👋
+## Olá, sou a Priscila, seja bem-vindo(a) ! 👋
 
 # 🎓 Educação e Certificações
 
