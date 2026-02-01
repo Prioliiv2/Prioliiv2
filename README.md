@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-🎓 Education
+🎓 ##Education
+
 Análise e Desenvolvimento de Sistemas (Em andamento)
 
 AWS Academy Graduate - Cloud Foundations — AWS
@@ -21,7 +22,11 @@ EF SET English Certificate (B1 Intermediário) — EF SET
 
 Análise de Problemas e Soluções — Estácio
 
-🚀 Tecnologias
+
+
+
+🚀 ##Tecnologias
+
 
 <div align="left">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
