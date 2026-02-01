@@ -1,26 +1,35 @@
 ## Olá, sou a Priscila 👋
 
-# 🎓 Education
+# 🎓 Educação e Certificações
 
-Análise e Desenvolvimento de Sistemas (Em andamento)
+## 📚 Formação Acadêmica
+**Análise e Desenvolvimento de Sistemas**  
+⏳ *Em andamento*
 
-AWS Academy Graduate - Cloud Foundations — AWS
+---
 
-AWS Educate - Introduction to Generative AI — AWS
+## ☁️ Cloud & Inteligência Artificial
+- **Cloud Foundations Training** | AWS Academy Graduate 
+- **Introduction to Generative AI** | AWS Educate  
+- **Introdução à IA Generativa** | Santander Open Academy  
 
-Google IT Support Professional Certificate — Coursera
+---
 
-Python Essentials 1 & 2 — Cisco Networking Academy
+## 🌐 Infraestrutura e Redes
+- **IT Support Professional Certificate** | Coursera  
+- **Certificações Cisco Network** | CESAR School  
 
-Certificações Cisco Network — CESAR School
+---
 
-Scrum Foundation Learner — Certiprof
+## 💻 Desenvolvimento e Produtividade
+- **Python Essentials 1 & 2** | Cisco Networking Academy  
+- **Microsoft 365 para Elas** | WoMakersCode  
 
-Microsoft 365 para Elas — WoMakersCode
+---
 
-EF SET English Certificate (B1 Intermediário) — EF SET
-
-Análise de Problemas e Soluções — Estácio
+## 🛠️ Metodologias e Idiomas
+- **Scrum Foundation Learner** | Certiprof  
+- **EF SET English Certificate** | Intermediário  
 
 
 # 🚀 Tecnologias
@@ -35,6 +44,8 @@ Análise de Problemas e Soluções — Estácio
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-365&logoColor=white" />   
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Generative_AI-black?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
+ 
 </div>
 
 # 💼 Experiência
