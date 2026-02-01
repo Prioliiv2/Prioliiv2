@@ -59,7 +59,7 @@
 - 📝 **Documentação:** Registro técnico detalhado garantindo a melhoria contínua e rastreabilidade.
 - 🎓 **Treinamentos:** Capacitação de usuários para maximizar o uso das funcionalidades do ERP.
 
-# 🌐 Contacts
+# 🌐 Contatos
 <hr>
 
 <div align="left">
